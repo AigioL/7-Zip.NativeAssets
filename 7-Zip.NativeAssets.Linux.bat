@@ -1,0 +1,1 @@
+nuget pack 7-Zip.NativeAssets.Linux.nuspec
