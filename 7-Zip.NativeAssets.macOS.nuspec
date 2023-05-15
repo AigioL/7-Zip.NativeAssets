@@ -3,7 +3,7 @@
 	<metadata minClientVersion="2.12">
 		<id>7-Zip.NativeAssets.macOS</id>
 		<title>7-Zip.NativeAssets.macOS</title>
-		<version>21.07-preview.1</version>
+		<version>21.07</version>
 		<authors>https://github.com/AigioL</authors>
 		<copyright>7-Zip Copyright (C) 1999-2021 Igor Pavlov.</copyright>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
