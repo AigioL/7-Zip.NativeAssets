@@ -3,7 +3,7 @@
 	<metadata minClientVersion="2.12">
 		<id>7-Zip.NativeAssets.Win32</id>
 		<title>7-Zip.NativeAssets.Win32</title>
-		<version>22.01</version>
+		<version>23.01</version>
 		<authors>https://github.com/AigioL</authors>
 		<copyright>7-Zip Copyright (C) 1999-2021 Igor Pavlov.</copyright>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -15,7 +15,6 @@
 	<files>
 		<file src="runtimes\win-x86\native\7z.dll" target="runtimes\win-x86\native\7z.dll" />
 		<file src="runtimes\win-x64\native\7z.dll" target="runtimes\win-x64\native\7z.dll" />
-		<file src="runtimes\win-arm\native\7z.dll" target="runtimes\win-arm\native\7z.dll" />
 		<file src="runtimes\win-arm64\native\7z.dll" target="runtimes\win-arm64\native\7z.dll" />
 		<file src="_._" target="lib/net35/_._" />
 		<file src="_._" target="lib/net40/_._" />
